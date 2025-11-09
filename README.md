@@ -18,3 +18,38 @@
 </p>
 
 ---
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: [REDACTED for Privacy reasons]
+located_in: Amsterdam, Netherlands
+education:
+  [
+    "Self-Taught Cybersecurity enthousiast",
+    "Carpentry & Landscaping",
+  ]
+
+fields_of_interests:
+  [
+    "Cyber Security",
+    "Exploit Developing",
+    "Data Science",
+    "Network Engineering",
+    "UI/UX",
+    "Coding",
+    "IoT Hacking",
+    "Android Hacking",
+
+  ]
+technical_background:
+  [
+    "Technical Engineer (intern at Arrow Electronics Netherlands"
+
+  ]
+  
+currently_learning: ["Docker, Vulnerability research, (mastering) MySQL, and (mastering) Python"]
+2026 Goals: ["Create 15+ Projects that the community can use and learn at least 5 new Technologies."]
+hobbies: ["Gaming", "Coding", "Music", "Cyber Security"]
+```
+  
+---  
