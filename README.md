@@ -15,6 +15,8 @@
 <a href="https://www.instagram.com/mindfuckerrrr/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
+  <a href="https://medium.com/@x3rx3s.s3c/">
+  <img height="50" src="https://cdn.mos.cms.futurecdn.net/xJGh6cXvC69an86AdrLD98-650-80.jpg.webp"/>
 </p>
 
 ---
