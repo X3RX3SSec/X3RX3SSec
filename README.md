@@ -1,6 +1,5 @@
 ## I see you!.. 👋
 
-https://i.pinimg.com/originals/3c/2a/ad/3c2aad38e743710b31103fe2a410f734.gif
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=Welcome%20to%20X3RX3S&animation=twinkling&fontAlign=50&fontColor=00ff00&textBg=false&descAlignY=60"/>
 </p>
