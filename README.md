@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://tryhackme.com/p/X3RX3SSEC">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+  <img height="50" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg"/>
 </a>
 <a href="https://www.instagram.com/mindfuckerrrr/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
