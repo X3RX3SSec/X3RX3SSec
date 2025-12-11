@@ -55,6 +55,9 @@ hobbies: ["Gaming", "Coding", "Music", "Cyber Security"]
 ```
   
 ---  
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=134134" style='border:none;'></iframe>
+---
+
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
