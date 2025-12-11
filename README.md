@@ -54,8 +54,6 @@ currently_learning: ["Docker, Vulnerability research, (mastering) MySQL, and (ma
 hobbies: ["Gaming", "Coding", "Music", "Cyber Security"]
 ```
   
----  
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=134134" style='border:none;'></iframe>
 ---
 
   
